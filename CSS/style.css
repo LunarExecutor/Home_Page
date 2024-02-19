@@ -197,7 +197,7 @@ button:active {
 /* Header */
 
 header {
-  background-image: url("/CSS/img/header.jpg");
+  background-image: url("./img/header.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -239,7 +239,7 @@ header #eclipse {
 }
 
 #img{
-    background-image: url("/CSS/img/experts.jpg");
+    background-image: url("./img/experts.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -280,21 +280,21 @@ header #eclipse {
 }
 
 #fandrew{
-  background-image: url("/CSS/img/fandrew.jpg");
+  background-image: url("./img/fandrew.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #jane{
-  background-image: url("/CSS/img/jane.jpg");
+  background-image: url("./img/jane.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #anne {
-  background-image: url("/CSS/img/anne.jpg");
+  background-image: url("./img/anne.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -306,7 +306,7 @@ header #eclipse {
 }
 
 .discover{
-  background-image: url("/CSS/img/soild.jpg");
+  background-image: url("./img/soild.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
